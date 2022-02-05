@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadfareed&theme=radical&show_icons=true&locale=en&layout=demo&hide_border=true" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=MAbubakarShabbir&theme=radical&show_icons=true&locale=en&layout=demo&hide_border=true" />
 </p>
 <br/>
 <h2 align="center">🏆 GitHub Profile Trophy:</h2>
