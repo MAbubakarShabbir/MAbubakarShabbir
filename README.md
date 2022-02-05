@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Muhammad Abubakar shabbir👋<a href="#"></h1>
   </div>
 <p align="center">
-  <a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML|%20NLP|%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
+  <a href="https://github.com/MAbubakarShabbir"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML|%20NLP|%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
   
 </p>
 <h1 align="center"> Connect with me: </h1>
@@ -22,14 +22,14 @@
 <br>
 <h2 align="center"> Contribution Graph: </h2>
 
-[![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saadfareed&theme=xcode)](https://github.com/saadfareed)
+[![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MAbubakarShabbir&theme=xcode)](https://github.com/MAbubakarShabbir)
 
 <h2 align="center"><i>⚙ GitHub Analytics:</i></h2>
 <p align="center">
-  <a href="https://github.com/saadfareed"><span>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saadfareed&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saadfareed&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadfareed&theme=dracula" />
+  <a href="https://github.com/MAbubakarShabbir"><span>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MAbubakarShabbir&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MAbubakarShabbir&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAbubakarShabbir&theme=dracula" />
     </span></a>
 </p>
 
@@ -39,12 +39,8 @@
 <br/>
 <h2 align="center">🏆 GitHub Profile Trophy:</h2>
 <p align="center">
-<a href="https://github.com/saadfareed">
-  <img width=600 src="https://github-profile-trophy.vercel.app/?username=saadfareed&theme=discord"/>
+<a href="https://github.com/MAbubakarShabbir">
+  <img width=600 src="https://github-profile-trophy.vercel.app/?username=MAbubakarShabbir&theme=discord"/>
 </a>
 </p>
 <hr>
-<h2 align>Spotify Playing 🎧</h2>
-    
-![Spotify](https://novatorem.vercel.app/api/spotify)
-    
