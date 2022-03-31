@@ -6,8 +6,7 @@
 </p>
 <h1 align="center"> Connect with me: </h1>
 <p align="center">
-<a href="<a href="https://www.cloudskillsboost.google/public_profiles/a753e61d-b846-41a3-9d18-61b9ee1d77a6
-"target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/qwiklabs.svg" alt="Muhammad Abubakar Shabbir" height="30" width="40" /></a>
+<a href="<a href="https://www.cloudskillsboost.google/public_profiles/a753e61d-b846-41a3-9d18-61b9ee1d77a6" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/qwiklabs.svg" alt="Muhammad Abubakar Shabbir" height="30" width="40" /></a>
 <a href="https://codepen.io/mabubakarshabbir" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Muhammad Abubakar Shabbir" height="30" width="40" /></a>
 <a href="https://leetcode.com/profile/account/MAbubakarShabbir" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/leetcode.svg" alt="Muhammad Abubakar Shabbir" height="30" width="40" /></a>
 <a href="https://dev.to/mabubakarshabbir" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Muhammad Abubakar Shabbir" height="30" width="40" /></a>
