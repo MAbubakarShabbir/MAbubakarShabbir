@@ -1,14 +1,14 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Saad Fareed👋<a href="#"></h1>
+    <h1> Hi there, I'm Muammad Abubakar Shabbir👋<a href="#"></h1>
   </div>
 <p align="center">
-  <a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML|%20NLP|%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
+  <a href="https://github.com/MAbubakarShabbir"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML|%20NLP|%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
   
 </p>
 <h1 align="center"> Connect with me: </h1>
 <p align="center">
-<a href="https://www.cloudskillsboost.google/public_profiles/a753e61d-b846-41a3-9d18-61b9ee1d77a6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/qwiklabs.svg" alt="SaadFareed" height="30" width="40" /></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/a753e61d-b846-41a3-9d18-61b9ee1d77a6" target="blank"><img align="center" src="https://www.cloudskillsboost.google/public_profiles/a753e61d-b846-41a3-9d18-61b9ee1d77a6" alt="SaadFareed" height="30" width="40" /></a>
 <a href="https://codepen.io/saadfareed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="SaadFareed" height="30" width="40" /></a>
 <a href="https://leetcode.com/Saadfareed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/leetcode.svg" alt="SaadFareed" height="30" width="40" /></a>
 <a href="https://dev.to/saadfareed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="SaadFareed" height="30" width="40" /></a>
