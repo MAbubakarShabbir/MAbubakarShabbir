@@ -10,9 +10,9 @@
 <p align="center">
 <a href="https://www.cloudskillsboost.google/public_profiles/a753e61d-b846-41a3-9d18-61b9ee1d77a6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/qwiklabs.svg" alt="Muhammad Abubakar Shabbir" height="30" width="40" /></a>
 <a href="https://codepen.io/mabubakarshabbir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Muhammad Abubakar Shabbir" height="30" width="40" /></a>
-<a href="https://leetcode.com/Saadfareed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/leetcode.svg" alt="SaadFareed" height="30" width="40" /></a>
-<a href="https://dev.to/saadfareed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="SaadFareed" height="30" width="40" /></a>
-<a href="https://twitter.com/SaadFar80645693" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SaadFareed" height="30" width="40" /></a>
+<a href="https://leetcode.com/profile/account/MAbubakarShabbir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/leetcode.svg" alt="Muhammad Abubakar Shabbir" height="30" width="40" /></a>
+<a href="https://dev.to/mabubakarshabbir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Muhammad Abubakar Shabbir" height="30" width="40" /></a>
+<a href="https://twitter.com/Muhamma58460367" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Muhammad Abubakar Shabbir" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/saad-fareed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="SaadFareed" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16696790/saadfareed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="SaadFareed" height="30" width="40" /></a>
 <a href="https://www.instagram.com/saadfareed_sadi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="SaadFareed" height="30" width="40" /></a>
